@@ -14,7 +14,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://your.url.from.vercel.app",
-        "APP_KEY": "aEKLGc6z0WslAMlLkGZL1oiPHZxfs8be4iD8aPdYH9g",
+        "APP_KEY": "base64:aEKLGc6z0WslAMlLkGZL1oiPHZxfs8be4iD8aPdYH9g=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
